@@ -1,6 +1,17 @@
-# Team-A
-Team A Group Project
+# Assignment 10 Local notification
+npm install expo
 
-Using saved models and flask app to serve them in a UI. 
+npx expo install expo-asset
 
-![Flask App UI](images/flaskappUI.png)
+npx expo install expo-font
+
+npx expo install expo-notifications
+
+npm start
+
+https://docs.expo.dev/versions/latest/sdk/notifications/
+
+npx expo install expo-notifications
+
+>> Scheduling notification
+Settings--> Expogo-->enable notification
